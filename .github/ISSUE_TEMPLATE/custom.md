@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: Bug report
+about: Please fill this out when reporting a bug
 title: ''
 labels: ''
 assignees: ''
@@ -35,6 +35,6 @@ If applicable, add screenshots to help explain your problem.
 ** Mod version **
 Your mods version
 
-<!--- Please add your latest.log / crash.log below with https://gist.github.com/ -->
+<!--- IMPORTANT! You find logs in the /minecraft/logs/ folder. Please add your latest.log / (if it did crash)crash.log below with https://gist.github.com/ -->
 ** Logs **
 Latest/Crash log
