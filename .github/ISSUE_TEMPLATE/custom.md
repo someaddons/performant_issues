@@ -16,7 +16,7 @@ assignees: someaddons
 
 ---
 
-**Describe the bug**
+**Describe the bug. 1.12 is no longer supported, do not make bugreports for it.**
 A clear and concise description of what the bug is.
 
 **To Reproduce**
