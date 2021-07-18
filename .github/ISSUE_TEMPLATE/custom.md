@@ -35,6 +35,8 @@ If applicable, add screenshots to help explain your problem.
 ** Mod version **
 Your mods version
 
-<!--- IMPORTANT! You find logs in the /minecraft/logs/ folder. Please add your latest.log / (if it did crash)crash.log below with https://gist.github.com/ -->
+<!--- IMPORTANT! You find logs in the /minecraft/logs/ folder. Please add your latest.log / (if it did crash)crash.log below with https://gist.github.com/ 
+I will only accept bug reports with attached logs, even if those may not have any useful info at all, leave that up to me to decide
+-->
 ** Logs **
 Latest/Crash log
