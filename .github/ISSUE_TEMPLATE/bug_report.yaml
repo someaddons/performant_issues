@@ -40,7 +40,8 @@ body:
       description: What version of our Minecraft are you running?
       options:
         - 1.16.5
-        - 1.18.1
+        - 1.19.2
+        - 1.19.3
     validations:
       required: true
   - type: dropdown
